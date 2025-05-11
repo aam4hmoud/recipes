@@ -1,7 +1,7 @@
 # Odin Recipes
 
 ## Introduction
-The **Odin Recipes** project is a basic HTML-based recipe website. This is the first project in the foundations course of The Odin Project curriculum.
+**Odin Recipes** is a basic recipe website. This is the first project in the [foundations course](https://www.theodinproject.com/paths/foundations/courses/foundations) of The Odin Project curriculum.
 
 ## Features
 - A main index page with links to multiple recipe pages.
