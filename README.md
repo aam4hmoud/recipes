@@ -3,6 +3,9 @@
 ## Introduction
 Odin Recipes is a basic recipe website, which is the first project in the odin project's foundations course that I am taking.
 
+## Screenshots
+![A screenshot showing one of the recipe pages.](./images/screenshot.png)
+
 ## Features
 - A main index page with links to multiple recipe pages.
 - Individual recipe pages featuring:
