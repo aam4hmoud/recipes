@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Odin Recipes is a basic recipe website, which is the first project in the odin project's foundations course that I am taking.
+Odin Recipes is a recipe website, which is the first project in the odin project's foundations course that I am taking.
 
 ## Screenshots
 
