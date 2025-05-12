@@ -1,8 +1,4 @@
-# Odin Recipes
-
-## Introduction
-
-Odin Recipes is a recipe website, which is the first project in the odin project's foundations course that I am taking.
+# Recipes
 
 ## Screenshots
 
@@ -27,7 +23,7 @@ Odin Recipes is a recipe website, which is the first project in the odin project
 1. **Clone the Repository**: Clone this repository to your local machine by typing this into your terminal (note: you need to have git installed):
 
    ```bash
-   git clone git@github.com:aam4hmoud/odin-recipes.git
+   git clone git@github.com:aam4hmoud/recipes.git
    ```
 
 2. **Open the `index.html` file** using your favorite web browser (e.g. Chrome) by double-clicking the file or right-clicking and choosing `Open with` > `Chrome`.
@@ -35,7 +31,7 @@ Odin Recipes is a recipe website, which is the first project in the odin project
 ## File Structure
 
 ```
-  odin-recipes/
+  recipes/
 ├── index.html
 ├── LICENSE
 ├── README.md
@@ -44,7 +40,7 @@ Odin Recipes is a recipe website, which is the first project in the odin project
 │   ├── lasagna.png
 │   ├── screenshot.png
 │   └── spicy-chicken-curry.png
-└── recipes/
+└── collection/
     ├── biriyani.html
     ├── lasagna.html
     └── spicy-chicken-curry.html
@@ -52,7 +48,7 @@ Odin Recipes is a recipe website, which is the first project in the odin project
 
 ## Live Demo
 
-You can view the live version of this project here: [Live Demo](https://aam4hmoud.github.io/odin-recipes/)
+You can view the live version of this project here: [Live Demo](https://aam4hmoud.github.io/recipes/)
 
 ## Future Improvements
 
@@ -69,7 +65,6 @@ By completing this project, I have demonstrated:
 ## Credits
 
 - The images and recipes used in this project were sourced from [Allrecipes](https://www.allrecipes.com/).
-- Thanks to [The Odin Project](https://www.theodinproject.com/) for providing the curriculum and guidance for this project.
 
 ## License
 
